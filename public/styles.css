@@ -1,5 +1,11 @@
 #order-sidebar {
   position: absolute;
-  left: 660px;
+  left: 630px;
   top: 270px;
+}
+
+#images-sidebar {
+  position: absolute;
+  left: 28px;
+  top: 310px;
 }
